@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\学习\大三上\计算机图形学\实验1.1\实验1.1_参考代码\InitShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习\大三上\计算机图形学\实验1.1\实验1.1_参考代码\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习\大三上\计算机图形学\实验1.1\实验1.1_参考代码\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\学习\大三上\计算机图形学\实验1.1\实验1.1_参考代码\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A438AB9B-7735-377B-B74B-0620A56CBB31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

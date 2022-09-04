@@ -1,0 +1,43 @@
+"D:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" E:\文件备份\实验材料\实验1.1\实验1.1_参考代码
+-- The C compiler identification is MSVC 19.28.29914.0
+-- The CXX compiler identification is MSVC 19.28.29914.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: D:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x86/cl.exe
+-- Check for working C compiler: D:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x86/cl.exe - broken
+CMake Error at D:/Program Files/JetBrains/CLion 2021.1.1/bin/cmake/win/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake:66 (message):
+  The C compiler
+
+    "D:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x86/cl.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: E:/鏂囦欢澶囦唤/瀹為獙鏉愭枡/瀹為獙1.1/瀹為獙1.1_鍙傝�冧唬鐮�/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):nmake /nologo cmTC_81f6e\fast && 	"D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_81f6e.dir\build.make /nologo -L                  CMakeFiles\cmTC_81f6e.dir\build
+    Building C object CMakeFiles/cmTC_81f6e.dir/testCCompiler.c.obj
+    	"D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx86\x86\cl.exe" @C:\Users\VCC\AppData\Local\Temp\nm940D.tmp
+    testCCompiler.c
+    Linking C executable cmTC_81f6e.exe
+    	"D:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_81f6e.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests -- "D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_81f6e.dir\objects1.rsp @C:\Users\VCC\AppData\Local\Temp\nm948B.tmp
+    LINK Pass 1: command "D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_81f6e.dir\objects1.rsp /out:cmTC_81f6e.exe /implib:cmTC_81f6e.lib /pdb:E:\???????\??????\???1.1\???1.1_?慰?????\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_81f6e.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_81f6e.dir/intermediate.manifest CMakeFiles\cmTC_81f6e.dir/manifest.res" failed (exit code 1201) with the following output:
+    LINK : fatal error LNK1201: 鍐欏叆绋嬪簭鏁版嵁搴撯�淓:\???????\??????\???1.1\???1.1_?慰?????\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_81f6e.pdb鈥濇椂鍑洪敊锛涜妫�鏌ユ槸鍚︽槸纾佺洏绌洪棿涓嶈冻銆佽矾寰勬棤鏁堟垨鏉冮檺涓嶅
+    NMAKE : fatal error U1077: 鈥�"D:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe"鈥�: 杩斿洖浠ｇ爜鈥�0xffffffff鈥�
+    Stop.
+    NMAKE : fatal error U1077: 鈥�"D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"鈥�: 杩斿洖浠ｇ爜鈥�0x2鈥�
+    Stop.
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:19 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "E:/鏂囦欢澶囦唤/瀹為獙鏉愭枡/瀹為獙1.1/瀹為獙1.1_鍙傝�冧唬鐮�/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "E:/鏂囦欢澶囦唤/瀹為獙鏉愭枡/瀹為獙1.1/瀹為獙1.1_鍙傝�冧唬鐮�/cmake-build-debug/CMakeFiles/CMakeError.log".

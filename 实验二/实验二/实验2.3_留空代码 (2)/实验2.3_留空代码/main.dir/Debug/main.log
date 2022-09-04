@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  main.cpp
+E:\学习\大三上\计算机图形学\实验\实验二\实验二\实验2.3_留空代码 (2)\实验2.3_留空代码\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\学习\大三上\计算机图形学\实验\实验二\实验二\实验2.3_留空代码 (2)\实验2.3_留空代码\include\Angel.h(64,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+D:\ruanjian\environment\vcpkg-master\installed\x64-windows\include\glad/glad.h(32): message : 参见“APIENTRY”的前一个定义
+E:\学习\大三上\计算机图形学\实验\实验二\实验二\实验2.3_留空代码 (2)\实验2.3_留空代码\main.cpp(143,56): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\学习\大三上\计算机图形学\实验\实验二\实验二\实验2.3_留空代码 (2)\实验2.3_留空代码\main.cpp(151,40): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验二\实验二\实验2.3_留空代码 (2)\实验2.3_留空代码\main.cpp(154,42): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验二\实验二\实验2.3_留空代码 (2)\实验2.3_留空代码\main.cpp(157,48): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验二\实验二\实验2.3_留空代码 (2)\实验2.3_留空代码\main.cpp(319,44): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验二\实验二\实验2.3_留空代码 (2)\实验2.3_留空代码\main.cpp(322,44): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验二\实验二\实验2.3_留空代码 (2)\实验2.3_留空代码\main.cpp(325,44): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  main.vcxproj -> E:\学习\大三上\计算机图形学\实验\实验二\实验二\实验2.3_留空代码 (2)\实验2.3_留空代码\Debug\main.exe

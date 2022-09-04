@@ -1,0 +1,10 @@
+^E:\学习\大三上\计算机图形学\实验\实验四\实验4.1\实验4.1_留空代码\CMAKEFILES\E50A78A9BC3F3096F37703052B2C009D\GENERATE.STAMP.RULE
+setlocal
+D:\ruanjian\environment\CMake\bin\cmake.exe -SE:/学习/大三上/计算机图形学/实验/实验四/实验4.1/实验4.1_留空代码 -BE:/学习/大三上/计算机图形学/实验/实验四/实验4.1/实验4.1_留空代码 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/学习/大三上/计算机图形学/实验/实验四/实验4.1/实验4.1_留空代码/main.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

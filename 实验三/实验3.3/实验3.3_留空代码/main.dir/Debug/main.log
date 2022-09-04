@@ -1,0 +1,80 @@
+﻿  main.cpp
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\include\Angel.h(64,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\include\Camera.h(46,14): warning C4305: “初始化”: 从“double”到“float”截断
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(191,56): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(273,23): warning C4244: “=”: 从“const _Ty”转换到“T”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(280,23): warning C4244: “=”: 从“const _Ty”转换到“T”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(287,23): warning C4244: “=”: 从“const _Ty”转换到“T”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(294,23): warning C4244: “=”: 从“const _Ty”转换到“T”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(301,23): warning C4244: “=”: 从“const _Ty”转换到“T”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(308,23): warning C4244: “=”: 从“const _Ty”转换到“T”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(323,23): warning C4244: “=”: 从“const _Ty”转换到“T”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(330,23): warning C4244: “=”: 从“const _Ty”转换到“T”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(349,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\main.cpp(350,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  main.vcxproj -> E:\学习\大三上\计算机图形学\实验\实验三\实验3.3\实验3.3_留空代码\Debug\main.exe

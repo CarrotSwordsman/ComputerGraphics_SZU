@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1967,5): warning : The referenced project 'E:\学习\大三上\计算机图形学\实验一\课后作业_实验一留空代码\ZERO_CHECK.vcxproj' does not exist.
+  Building Custom Rule E:/学习/大三上/计算机图形学/实验一/课后作业_实验一留空代码/CMakeLists.txt
+  CMake is re-running because E:/瀛︿範/澶т笁涓?璁＄畻鏈哄浘褰㈠/瀹為獙涓€/璇惧悗浣滀笟_瀹為獙涓€鐣欑┖浠ｇ爜/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "E:/瀛︿範/澶т笁涓?璁＄畻鏈哄浘褰㈠/瀹為獙涓€/璇惧悗浣滀笟_瀹為獙涓€鐣欑┖浠ｇ爜" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: “E:\学习\大三上\计算机图形学\实验一\课后作业_实验一留空代码\CMakeLists.txt”的自定义生成已退出，代码为 1。

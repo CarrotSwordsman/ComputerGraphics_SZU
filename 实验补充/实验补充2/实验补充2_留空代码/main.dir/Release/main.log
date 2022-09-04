@@ -1,0 +1,66 @@
+﻿  Building Custom Rule E:/学习/大三上/计算机图形学/实验/实验补充/实验补充2/实验补充2_留空代码/CMakeLists.txt
+  Camera.cpp
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\include\Angel.h(64,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(56,16): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(57,16): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(58,17): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(70,14): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(77,34): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(89,24): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(91,24): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(94,32): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(117,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(118,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(119,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(134,14): warning C4305: “=”: 从“double”到“float”截断
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(164,16): warning C4305: “+=”: 从“double”到“float”截断
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Camera.cpp(167,16): warning C4305: “-=”: 从“double”到“float”截断
+  InitShader.cpp
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\include\Angel.h(64,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  TriMesh.cpp
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\include\Angel.h(64,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  main.cpp
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\include\Angel.h(64,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\main.cpp(84,25): warning C4305: “初始化”: 从“double”到“float”截断
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\main.cpp(85,24): warning C4305: “初始化”: 从“double”到“float”截断
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\main.cpp(87,25): warning C4305: “初始化”: 从“double”到“float”截断
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\main.cpp(88,25): warning C4305: “初始化”: 从“double”到“float”截断
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\main.cpp(91,20): warning C4305: “初始化”: 从“double”到“float”截断
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\main.cpp(167,56): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\main.cpp(544,12): warning C4101: “ambient”: 未引用的局部变量
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\main.cpp(543,8): warning C4101: “tmp”: 未引用的局部变量
+  MeshPainter.cpp
+E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\include\Angel.h(64,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+MeshPainter.cpp(184,59): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  正在生成代码...
+  glad.c
+  main.vcxproj -> E:\学习\大三上\计算机图形学\实验\实验补充\实验补充2\实验补充2_留空代码\Release\main.exe

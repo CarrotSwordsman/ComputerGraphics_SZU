@@ -1,0 +1,10 @@
+^E:\学习\大三上\计算机图形学\实验\实验一\课后作业_实验一留空代码 (3)\CMAKEFILES\D0DE5494B5A32403BF5F27E11031C6C4\GENERATE.STAMP.RULE
+setlocal
+D:\ruanjian\environment\CMake\bin\cmake.exe "-SE:/学习/大三上/计算机图形学/实验/实验一/课后作业_实验一留空代码 (3)" "-BE:/学习/大三上/计算机图形学/实验/实验一/课后作业_实验一留空代码 (3)" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/学习/大三上/计算机图形学/实验/实验一/课后作业_实验一留空代码 (3)/main.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

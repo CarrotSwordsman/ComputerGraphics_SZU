@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\学习\大三上\计算机图形学\实验\实验二\实验2.2\实验2.2_留空代码\CMakeFiles\ffd169112eb4b7077e280243d0259f82\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FF194820-64C3-378F-A530-30937D0F5441}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

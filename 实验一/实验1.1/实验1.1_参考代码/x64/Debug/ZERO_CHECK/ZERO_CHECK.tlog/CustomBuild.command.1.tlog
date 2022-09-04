@@ -1,0 +1,10 @@
+^E:\学习\大三上\计算机图形学\实验1.1\实验1.1_参考代码\CMAKEFILES\989B8F3550E213909F2D3DA94A7D0FFA\GENERATE.STAMP.RULE
+setlocal
+D:\ruanjian\environment\CMake\bin\cmake.exe -SE:/学习/大三上/计算机图形学/实验1.1/实验1.1_参考代码 -BE:/学习/大三上/计算机图形学/实验1.1/实验1.1_参考代码 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/学习/大三上/计算机图形学/实验1.1/实验1.1_参考代码/main.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

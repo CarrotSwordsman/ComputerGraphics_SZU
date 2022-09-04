@@ -1,0 +1,37 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: E:/文件备份/实验材料/实验1.1/实验1.1_参考代码/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_a3710\fast && 	"D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_a3710.dir\build.make /nologo -L                  CMakeFiles\cmTC_a3710.dir\build
+Building C object CMakeFiles/cmTC_a3710.dir/CMakeCCompilerABI.c.obj
+	"D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx86\x86\cl.exe" @C:\Users\VCC\AppData\Local\Temp\nm8EDD.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_a3710.exe
+	"D:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a3710.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests -- "D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_a3710.dir\objects1.rsp @C:\Users\VCC\AppData\Local\Temp\nm90E2.tmp
+LINK Pass 1: command "D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_a3710.dir\objects1.rsp /out:cmTC_a3710.exe /implib:cmTC_a3710.lib /pdb:E:\???????\??????\???1.1\???1.1_?ο?????\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_a3710.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_a3710.dir/intermediate.manifest CMakeFiles\cmTC_a3710.dir/manifest.res" failed (exit code 1201) with the following output:
+LINK : fatal error LNK1201: 写入程序数据库“E:\???????\??????\???1.1\???1.1_?ο?????\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_a3710.pdb”时出错；请检查是否是磁盘空间不足、路径无效或权限不够
+NMAKE : fatal error U1077: “"D:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/文件备份/实验材料/实验1.1/实验1.1_参考代码/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_81f6e\fast && 	"D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_81f6e.dir\build.make /nologo -L                  CMakeFiles\cmTC_81f6e.dir\build
+Building C object CMakeFiles/cmTC_81f6e.dir/testCCompiler.c.obj
+	"D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx86\x86\cl.exe" @C:\Users\VCC\AppData\Local\Temp\nm940D.tmp
+testCCompiler.c
+Linking C executable cmTC_81f6e.exe
+	"D:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_81f6e.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests -- "D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_81f6e.dir\objects1.rsp @C:\Users\VCC\AppData\Local\Temp\nm948B.tmp
+LINK Pass 1: command "D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_81f6e.dir\objects1.rsp /out:cmTC_81f6e.exe /implib:cmTC_81f6e.lib /pdb:E:\???????\??????\???1.1\???1.1_?ο?????\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_81f6e.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_81f6e.dir/intermediate.manifest CMakeFiles\cmTC_81f6e.dir/manifest.res" failed (exit code 1201) with the following output:
+LINK : fatal error LNK1201: 写入程序数据库“E:\???????\??????\???1.1\???1.1_?ο?????\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_81f6e.pdb”时出错；请检查是否是磁盘空间不足、路径无效或权限不够
+NMAKE : fatal error U1077: “"D:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+

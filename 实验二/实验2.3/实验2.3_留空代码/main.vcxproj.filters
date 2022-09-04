@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\学习\大三上\计算机图形学\实验\实验二\实验2.3\实验2.3_留空代码\InitShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习\大三上\计算机图形学\实验\实验二\实验2.3\实验2.3_留空代码\TriMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习\大三上\计算机图形学\实验\实验二\实验2.3\实验2.3_留空代码\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习\大三上\计算机图形学\实验\实验二\实验2.3\实验2.3_留空代码\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\学习\大三上\计算机图形学\实验\实验二\实验2.3\实验2.3_留空代码\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9002D405-BF8A-3B2A-90D7-061A71BE1032}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

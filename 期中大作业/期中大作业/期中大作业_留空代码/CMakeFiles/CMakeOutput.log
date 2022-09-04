@@ -1,0 +1,135 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.11.0+0538acc04
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2021/10/22 17:36:12。
+节点 1 上的项目“E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdC.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdC.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+VcpkgTripletSelection:
+  Using triplet "x64-windows" from "D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\"
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\CL.exe /c /I"D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\include" /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\lib" /LIBPATH:"D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\lib\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\lib\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.exe
+AppLocalFromInstalled:
+  pwsh.exe -ExecutionPolicy Bypass -noprofile -File "D:\ruanjian\environment\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1" "E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.exe" "D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\bin" "Debug\CompilerIdC.tlog\CompilerIdC.write.1u.tlog" "Debug\vcpkg.applocal.log"
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+  命令“pwsh.exe -ExecutionPolicy Bypass -noprofile -File "D:\ruanjian\environment\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1" "E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.exe" "D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\bin" "Debug\CompilerIdC.tlog\CompilerIdC.write.1u.tlog" "Debug\vcpkg.applocal.log"”已退出，代码为 9009。
+  "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "D:\ruanjian\environment\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1" "E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.exe" "D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\bin" "Debug\CompilerIdC.tlog\CompilerIdC.write.1u.tlog" "Debug\vcpkg.applocal.log"
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdC.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:02.65
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/学习/大三上/计算机图形学/实验/期中大作业/期中大作业/期中大作业_留空代码/CMakeFiles/3.21.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.11.0+0538acc04
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2021/10/22 17:36:16。
+节点 1 上的项目“E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdCXX.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdCXX.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+VcpkgTripletSelection:
+  Using triplet "x64-windows" from "D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\"
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\CL.exe /c /I"D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\include" /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\lib" /LIBPATH:"D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\lib\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\lib\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.exe
+AppLocalFromInstalled:
+  pwsh.exe -ExecutionPolicy Bypass -noprofile -File "D:\ruanjian\environment\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1" "E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.exe" "D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\bin" "Debug\CompilerIdCXX.tlog\CompilerIdCXX.write.1u.tlog" "Debug\vcpkg.applocal.log"
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+  命令“pwsh.exe -ExecutionPolicy Bypass -noprofile -File "D:\ruanjian\environment\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1" "E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.exe" "D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\bin" "Debug\CompilerIdCXX.tlog\CompilerIdCXX.write.1u.tlog" "Debug\vcpkg.applocal.log"”已退出，代码为 9009。
+  "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "D:\ruanjian\environment\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1" "E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.exe" "D:\ruanjian\environment\vcpkg-master\installed\\x64-windows\debug\bin" "Debug\CompilerIdCXX.tlog\CompilerIdCXX.write.1u.tlog" "Debug\vcpkg.applocal.log"
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdCXX.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.17
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "E:/学习/大三上/计算机图形学/实验/期中大作业/期中大作业/期中大作业_留空代码/CMakeFiles/3.21.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/学习/大三上/计算机图形学/实验/期中大作业/期中大作业/期中大作业_留空代码/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_428e0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.11.0+0538acc04
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30133 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  CMakeCCompilerABI.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_428e0.dir\Debug\\" /Fd"cmTC_428e0.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\ruanjian\environment\CMake\share\cmake-3.21\Modules\CMakeCCompilerABI.c"
+  cmTC_428e0.vcxproj -> E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\CMakeTmp\Debug\cmTC_428e0.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/学习/大三上/计算机图形学/实验/期中大作业/期中大作业/期中大作业_留空代码/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_81d86.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.11.0+0538acc04
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30133 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  CMakeCXXCompilerABI.cpp
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_81d86.dir\Debug\\" /Fd"cmTC_81d86.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\ruanjian\environment\CMake\share\cmake-3.21\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_81d86.vcxproj -> E:\学习\大三上\计算机图形学\实验\期中大作业\期中大作业\期中大作业_留空代码\CMakeFiles\CMakeTmp\Debug\cmTC_81d86.exe
+
+
+
